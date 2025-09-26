@@ -1,7 +1,4 @@
-const prompt = require("prompt-sync")();
-function main (){
-    
-    const num1= parseFloat(prompt("ingrese el primer numero:"));
+const prompt = require("prompt-sync"    const num1= parseFloat(prompt("ingrese el primer numero:"));
     const num2 =parseFloat(prompt("ingrese el segundo numero:"));
 
     const operacion = prompt("ingrese la operacion (+, -, *, /):"); 
