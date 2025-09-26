@@ -31,6 +31,6 @@ const prompt = require("prompt-sync")();
     console.log("el resultado es: " + resultado); 
 
 
-main(); 
+
     
 
