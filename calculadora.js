@@ -1,4 +1,4 @@
-const prompt = resultadoequire("prompt-sync");
+const prompt = require("prompt-sync")();
    const num1= parseFloat(prompt("ingrese el primer numero:"));
     const num2 =parseFloat(prompt("ingrese el segundo numero:"));
 
